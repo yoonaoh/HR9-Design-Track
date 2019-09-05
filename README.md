@@ -10,7 +10,7 @@ Although there are new tools and technologies to help with frontend design, we w
 ## Track Prompt
 The goal of this track is to redesign the Rice [residential college website](https://dou.rice.edu/residential-colleges). All of the information currently included on the site must be displayed on your new page, but you are welcome to structure it however you’d like. 
 
-You may modify the style sheet and HTML in any way you wish. This may seem daunting at first if you’ve never worked this way before, but follow the listed links to learn more, and use the sample files as a guide.
+You may modify the style sheet and HTML to do things such as rearrange the text or import fonts. However, you cannot add any more text. 
 
 We’ve provided a sample HTML file containing all the text on the page for you to begin with. Feel free to add images from the website and modify the sample CSS file to incorporate your design ideas. Download the sample HTML and CSS to get started. 
 
@@ -30,4 +30,4 @@ A: No.
 
 ### Q: Can I modify/change the given HTML template?
 
-A: Yes, feel free to modify the HTML template (i.e. to rearrange the text or import fonts). However, you cannot use JavaScript or anything other than HTML and CSS.
+A: Yes, feel free to modify the HTML template (i.e. to rearrange the text or import fonts). However, you cannot add anymore text. You also cannot use JavaScript or anything other than HTML and CSS.
