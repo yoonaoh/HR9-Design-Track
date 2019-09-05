@@ -12,7 +12,7 @@ The goal of this track is to redesign the Rice [residential college website](htt
 
 You may modify the style sheet and HTML to do things such as rearrange the text or import fonts. However, you cannot add any more text. 
 
-We’ve provided a sample HTML file containing all the text on the page for you to begin with. Feel free to add images from the website and modify the sample CSS file to incorporate your design ideas. Download the sample HTML and CSS to get started. 
+We’ve provided a sample [HTML file](index.html) containing all the text on the page for you to begin with, as well as a sample [CSS file](style.css) to demonstrate a few ways in which the text can be formatted. Feel free to add images from the website and modify the sample CSS file to incorporate your design ideas. Download the sample files to get started. 
 
 ## Resources
 [CSS Zen Garden Submissions](http://www.mezzoblue.com/zengarden/alldesigns/) (note that none of these submissions use javascript - CSS is a powerful tool!)
