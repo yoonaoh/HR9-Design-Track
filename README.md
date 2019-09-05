@@ -18,6 +18,7 @@ We’ve provided a sample HTML file containing all the text on the page for you 
 [CSS Zen Garden Submissions](http://www.mezzoblue.com/zengarden/alldesigns/) (note that none of these submissions use javascript - CSS is a powerful tool!)
 
 ### CSS Resources 
+* [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 * [css3.info](http://www.css3.info/)
 * [CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS Snippets on CSS-Tricks](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -29,5 +30,4 @@ We’ve provided a sample HTML file containing all the text on the page for you 
 A: No.
 
 ### Q: Can I modify/change the given HTML template?
-
 A: Yes, feel free to modify the HTML template (i.e. to rearrange the text or import fonts). However, you cannot add anymore text. You also cannot use JavaScript or anything other than HTML and CSS.
