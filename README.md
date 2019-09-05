@@ -24,10 +24,10 @@ Resources
 
 ## FAQs
 
-### Can the app have backend functionality?
+### Q: Can the app have backend functionality?
 No.
 
-### Can I modify/change the given HTML template?
+### Q: Can I modify/change the given HTML template?
 
 The only part of the HTML template you may change is the <head></head> section (e.g. to import fonts). You cannot change anything in the <body></body> section.
 
