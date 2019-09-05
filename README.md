@@ -3,7 +3,7 @@
 ## Track Description
 Based off the CSS Zen Garden, this track aims to show you the power of CSS. 
 
-“CSS stands for Cascading Style Sheets with an emphasis placed on “Style.” While HTML is used to structure a web document (defining things like headlines and paragraphs, and allowing you to embed images, video, and other media), CSS comes through and specifies your document’s style—page layouts, colors, and fonts are all determined with CSS.” (source: https://skillcrush.com/2012/04/03/css/) 
+“CSS stands for Cascading Style Sheets with an emphasis placed on “Style.” While HTML is used to structure a web document (defining things like headlines and paragraphs, and allowing you to embed images, video, and other media), CSS comes through and specifies your document’s style—page layouts, colors, and fonts are all determined with CSS.” ([source](https://skillcrush.com/2012/04/03/css/))
 
 Although there are new tools and technologies to help with frontend design, we want to focus our attention back on the basics. CSS is a powerful and often overlooked tool, and we hope with this design track, you will learn something new about CSS. 
 
@@ -17,10 +17,10 @@ Resources
 [CSS Zen Garden Submissions](http://www.mezzoblue.com/zengarden/alldesigns/) (note that none of these submissions use javascript! CSS is a powerful tool)
 
 ## CSS Resources 
-[css3.info](http://www.css3.info/)
-[CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[CSS Snippets on CSS-Tricks](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[CSS on Quirks Mode](http://css-tricks.com/snippets/)
+* [css3.info](http://www.css3.info/)
+* [CSS on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS Snippets on CSS-Tricks](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS on Quirks Mode](http://css-tricks.com/snippets/)
 
 ## FAQs
 Q: Can the app have backend functionality?
