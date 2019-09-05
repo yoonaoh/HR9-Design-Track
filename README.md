@@ -23,11 +23,11 @@ Resources
 * [CSS on Quirks Mode](http://css-tricks.com/snippets/)
 
 ## FAQs
-Q: Can the app have backend functionality?
 
-A: No.
+### Can the app have backend functionality?
+No.
 
-Q: Can I modify/change the given HTML template?
+### Can I modify/change the given HTML template?
 
-A: The only part of the HTML template you may change is the <head></head> section (e.g. to import fonts). You cannot change anything in the <body></body> section.
+The only part of the HTML template you may change is the <head></head> section (e.g. to import fonts). You cannot change anything in the <body></body> section.
 
