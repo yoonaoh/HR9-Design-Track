@@ -25,7 +25,7 @@ Resources
 ## FAQs
 
 ### Q: Can the app have backend functionality?
-A; No.
+A: No.
 
 ### Q: Can I modify/change the given HTML template?
 
